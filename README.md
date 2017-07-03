@@ -1,0 +1,1 @@
+Hey! This is my etch-a-sketch program! It features some cool color choices for your drawings! I neglected to add the ability to adjust canvas size because I already know JS and JQUERY and did not want to spend too much time on review, but I highly suggest that you try it yourself!
