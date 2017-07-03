@@ -1,6 +1,6 @@
 //Function for creating the grids.
 numGrid = 16;
-color = black;
+color = "black";
 function createGrid(numGrid){
 	for(var i = 0; i < numGrid + 1; i++){
 		$(".wrapper").append("<div id='" + i + "'class='holder'></div>");
@@ -12,7 +12,7 @@ function createGrid(numGrid){
 
 
 function clear(){
-	color = black;
+	color = "black";
 	$(".square").css("background-color", "#ededed");
 }
 
